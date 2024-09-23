@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 <html>
 <body>
-
-<h3 allign=> Information about Hyundai</h3> 
-<p style=""> th</p>
-
+< h3> Inform</h3>
+<p align="center"> bababab</p>
